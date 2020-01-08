@@ -1,0 +1,7 @@
+Dunne : 11345
+ashwin : 1000
+cameron : 2000
+ruchir : 3000
+samar : 4000
+tarun : 5000
+admin : 1000000
